@@ -14,6 +14,6 @@
                          - ชื่อ-นามสกุล, ชื่อเล่น,เลขที่, ชื่อกลุ่ม, เบอร์โทร, site(github.io) 
                          - มี link ไปยัง 2 หน้าที่เหลือ (index.html + profile.html)
 - ข้อที่ 2     
-            -ให้สร้าง Form ชื่อ  booking.ht
+            -ให้สร้าง Form ชื่อ  booking.html
 - ข้อที่ 3     
             -ให้สร้าง phonebook.html  ในรูปแบบ responsive เพื่อสร้างสมุดโทรศัพท์บน Smart Phone
